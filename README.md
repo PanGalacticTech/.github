@@ -4,11 +4,11 @@ Pronouns: She/Her They/Them
 
 This github is mostly used for my personal projects, for my proffessional work, please see: [ImogenWren - Github](https://github.com/ImogenWren)
 
-About Me
+## About Me
 I am an an Embedded Systems developer who works in the Educational Sector. My work is often focussed on simplifying and communicating embedded engineering concepts in ways that I hope approachable to people with varying amounts of experience in embedded system development.
 
-Professional Contributions
-Since 2022 I have been involved with Practable.io Remote Labs experiments, doing PCB & Circuit design along with embedded systems development for testing, mostly within the Arduino platform.
+## Current Projects
+- Developing an Electrolysis machine for #TransHealth
 
 Outside Interests
 I Design & Build Guitar FX Stompboxes under the name Pan Galactic Tech
