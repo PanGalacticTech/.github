@@ -1,6 +1,6 @@
 # Pan Galactic Tech - Imogen Wren
-Name: Imogen Wren
-Pronouns: She/Her They/Them
+Name: Imogen Wren <br>
+Pronouns: She/Her They/Them <br><br>
 
 This github is mostly used for my personal projects, for my proffessional work, please see: [ImogenWren - Github](https://github.com/ImogenWren)
 
@@ -10,7 +10,7 @@ I am an an Embedded Systems developer who works in the Educational Sector. My wo
 ## Current Projects
 - Developing an Electrolysis machine for #TransHealth
 
-Outside Interests
+## Other Interests
 I Design & Build Guitar FX Stompboxes under the name Pan Galactic Tech
 I host my tech blog where I discuss arduino development, 3D CAD work and my interest in spaceflight Pan Galactic Tech
 I play with the Riot Girl Punk Band Dear Srrrz, we have just recorded our first songs towards an EP which we hope to release this year!
