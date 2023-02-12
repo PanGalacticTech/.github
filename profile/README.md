@@ -1,4 +1,6 @@
 # Pan Galactic Tech - Imogen Wren
+![PanGalacticLogo_OrigionalOrangeandBlue_small](https://user-images.githubusercontent.com/97303986/218313692-5a4f38fc-317e-4ff1-b2d6-353e83555722.png)
+
 ## About Me
 - Name: Imogen Wren. <br>
 - Pronouns: She/Her. <br>
