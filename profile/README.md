@@ -1,6 +1,7 @@
 # Pan Galactic Tech - Imogen Wren
-Name: Imogen Wren <br>
-Pronouns: She/Her They/Them <br><br>
+## About Me
+- Name: Imogen Wren. <br>
+- Pronouns: She/Her. <br>
 
 This github is mostly used for my personal projects, for my proffessional work, please see: [ImogenWren - Github](https://github.com/ImogenWren)
 
