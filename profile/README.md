@@ -10,18 +10,15 @@ I am an an Embedded Systems developer who works in the Educational Sector. My wo
 ## Current Projects
 - Developing an Electrolysis machine for #TransHealth
 
-## Other Interests
-I Design & Build Guitar FX Stompboxes under the name Pan Galactic Tech
-I host my tech blog where I discuss arduino development, 3D CAD work and my interest in spaceflight Pan Galactic Tech
-I play with the Riot Girl Punk Band Dear Srrrz, we have just recorded our first songs towards an EP which we hope to release this year!
-Social Links
-Pan Galactic Tech - Github
-Pan Galactic Tech - Website & Store
+## Outside Interests
+- I Design & Build Guitar FX Stompboxes under the name [Imogen Wren Studios](github.com/Imogen-Wren-Studios)(Formally Pan Galactic Fx)
+- I host my tech blog where I discuss arduino development, 3D CAD work and my interest in spaceflight [Pan Galactic Tech](https://PanGalacticTech.com)
+- I play Bass for the Riot Girl Punk Band Dear Srrrz, we have just recorded our first songs towards an EP which we hope to release this year!
 
-
-
-
-
+## Social Links
+- [ImogenWren - Github](https://github.com/ImogenWren)
+- [Imogen-Wren-Studios - Github](github.com/Imogen-Wren_Studios)
+- [Pan Galactic Tech - Website & Store](https://PanGalacticTech.com)
 
 
 <!--
