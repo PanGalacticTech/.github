@@ -7,8 +7,14 @@ This github is mostly used for my personal projects, for my proffessional work, 
 ## About Me
 I am an an Embedded Systems developer who works in the Educational Sector. My work is often focussed on simplifying and communicating embedded engineering concepts in ways that I hope approachable to people with varying amounts of experience in embedded system development.
 
+## About Pan Galactic Tech
+Pan Galactic Tech was started as branding for the guitar stompboxes I was building and releasing for sale online. After joining Medway Makers - a Makerspace community in the Medway & Gravesend area, I decided to start documenting the Embedded system and Product Design projects I was working on in a more cohesive manner. I ended up building a website during my time at this makerspace and used it as a blog for publishing my projects. Over time the content turned into educational how-tos about general embedded systems engineering concepts and their implementation in the Arduino Framework. I hope to publish more and more of this content as time goes on.
+
+This organisation is the collection of all the projects I have undertaken in my own time, many of which I have even started to document so they can be a learning tool for people going down the same roads I did, or myself in the future.
+
 ## Current Projects
 - Developing an Electrolysis machine for #TransHealth
+- ESP32 Step Sequencer
 
 ## Outside Interests
 - I Design & Build Guitar FX Stompboxes under the name [Imogen Wren Studios](github.com/Imogen-Wren-Studios)(Formally Pan Galactic Fx)
