@@ -5,7 +5,10 @@
 - Name: Imogen Wren. <br>
 - Pronouns: She/Her. <br>
 
-This github is mostly used for my personal projects, for my proffessional work, please see: [ImogenWren - Github](https://github.com/ImogenWren)
+This github is mostly used for my personal projects, for my proffessional work, please see:
+- [ImogenWren - Github](https://github.com/ImogenWren)
+And for My more artistic outlets:
+- [Imogen Wren Studios -  Github](https://github.com/imogen-wren-studios) - Analog & Digital Audio, Lighting & Artistic Projects 
 
 ## About Me
 I am an an Embedded Systems developer who works in the Educational Sector. My work is often focussed on simplifying and communicating embedded engineering concepts in ways that I hope approachable to people with varying amounts of experience in embedded system development.
