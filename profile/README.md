@@ -17,7 +17,7 @@ I am an an Embedded Systems developer who works in the Educational Sector. My wo
 
 ## Social Links
 - [ImogenWren - Github](https://github.com/ImogenWren)
-- [Imogen-Wren-Studios - Github](github.com/Imogen-Wren_Studios)
+- [Imogen Wren Studios - Github](github.com/Imogen-Wren-Studios)
 - [Pan Galactic Tech - Website & Store](https://PanGalacticTech.com)
 
 
