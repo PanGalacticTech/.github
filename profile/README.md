@@ -1,12 +1,13 @@
 # Pan Galactic Tech - Imogen Wren
 ![PanGalacticLogo_OrigionalOrangeandBlue_small](https://user-images.githubusercontent.com/97303986/218313692-5a4f38fc-317e-4ff1-b2d6-353e83555722.png)
 
+<-Slowly Archiving-> for majority of future work see [ImogenWren - Github](https://github.com/ImogenWren)
 
 This github is mostly used for my personal projects, for my proffessional work, please see:
 - [ImogenWren - Github](https://github.com/ImogenWren) <br>
 
 And for My more artistic outlets: 
-- [Imogen Wren Studios -  Github](https://github.com/imogen-wren-studios) - Analog & Digital Audio, Lighting & Artistic Projects 
+- [Low Poly Studios -  Github](https://github.com/low-poly-studio) - Analog & Digital Audio, Lighting & Artistic Projects 
 
 ## About Me
 - Name: Imogen Wren. <br>
