@@ -7,7 +7,7 @@ This github is mostly used for my personal projects, for my proffessional work, 
 - [ImogenWren - Github](https://github.com/ImogenWren) <br>
 
 And for My more artistic outlets: 
-- [Low Poly Studios -  Github](https://github.com/low-poly-studio) - Analog & Digital Audio, Lighting & Artistic Projects 
+- [Low Poly Studio -  Github](https://github.com/low-poly-studio) - Analog & Digital Audio, Lighting & Artistic Projects 
 
 ## About Me
 - Name: Imogen Wren. <br>
